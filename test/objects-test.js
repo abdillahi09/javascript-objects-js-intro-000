@@ -1,6 +1,6 @@
 /*global describe, it */
 
-require 'jsdom/lib/old-api'
+// require 'jsdom/lib/old-api'
 
 const expect = require('chai').expect
 const babel = require('babel-core')
